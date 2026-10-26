@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContenedoresElementos</string>
+    <string name="desc_persona1">Persona 1</string>
+    <string name="desc_persona2">Persona 2</string>
+    <string name="desc_animal1">Animal 1</string>
+</resources>
